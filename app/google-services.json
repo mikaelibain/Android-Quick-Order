@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995918393995",
+    "firebase_url": "https://androidquickorder-76d60.firebaseio.com",
+    "project_id": "androidquickorder-76d60",
+    "storage_bucket": "androidquickorder-76d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995918393995:android:02f2d98be2e17154",
+        "android_client_info": {
+          "package_name": "com.example.mikaelibain.androidquickorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995918393995-strrnl1kfdtvcdh957pjrlbpm6rmnvug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mikaelibain.androidquickorder",
+            "certificate_hash": "274b93faf563e6b0605d0969e88291b94e943033"
+          }
+        },
+        {
+          "client_id": "995918393995-2un41tlssh1673nhbedb11m7rvjm02v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHY9uqR5yv3VrlH7EZuyO1vLFP3TVHbLc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995918393995-2un41tlssh1673nhbedb11m7rvjm02v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
