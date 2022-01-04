@@ -11,7 +11,7 @@ Restaurants and food places in Grenada are missing an efficient way to collect d
 Quick Order is a system that can provide users with a directory of all the restaurants in Grenada and allow them to order from their mobile phone or computer. This system is comprised of two parts: the website and the mobile app.
 
 There are two versions of the app: Restuarant Side and User Side.
-We decided to make a resturant mobile application beacuse the vast majority of restaurants that we are feauturing on the app are small, usually one person ran, independent businesses and they often don't have any other forms of technology.
+We decided to make a resturant mobile application beacuse the vast majority of restaurants that we are feauturing on the app are small businesses that are usually ran by one person or independent businesses and they often don't have any other forms of technology. It is an effective way to bring in this section of buisnesses, as most Caribbean restuarants operate on a very small scale, and although most people have mobile phones, the percentage of people who own laptop and desktop devices is much lower. The Restaurant Side on the app is a version we give to restaurant owners to monitor and schedule orders, something that many small food business owners in Grenada struggle with, as the most common way of ordering would be the call the owner's personal phone number, which is somewht ineffective. We want to reduce this gap between more established business owners and small business owners so that everyone has a more equal playing field.
 
 ## Features
 User Side
