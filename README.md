@@ -32,8 +32,11 @@ Restaurant Side
 
 ## In Action
 
-![](in-action.mp4)
-in-action.mp4
+
+
+https://user-images.githubusercontent.com/38335567/148082699-d5730a28-43e1-4b89-933d-753c3a3fe74a.mp4
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
