@@ -32,7 +32,6 @@ Restaurant Side
 
 ## In Action
 
-https://github.dev/mikaelibain/Android-Quick-Order/blob/master/qoa.mp4
 
 https://user-images.githubusercontent.com/38335567/148082699-d5730a28-43e1-4b89-933d-753c3a3fe74a.mp4
 
