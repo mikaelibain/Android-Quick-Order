@@ -32,9 +32,7 @@ Restaurant Side
 
 ## In Action
 
-
-https://user-images.githubusercontent.com/38335567/148082699-d5730a28-43e1-4b89-933d-753c3a3fe74a.mp4
-
+https://github.com/user-attachments/assets/f519c954-89e2-44c5-b9ec-1c7a37f3eef3
 
 
 ## Contributing
