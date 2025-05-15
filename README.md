@@ -22,12 +22,14 @@ User Side
 - Schedule Order
 - Manage Profile
 - Reviews and Rating
+- Text Based Notifications through Firebase Cloud Messaging (FCM)
 
 Restaurant Side
 
 - Manage Products
 - Manage Orders
 - Notification Management
+- Text Based Notifications through Firebase Cloud Messaging (FCM)
 - Reports- Currently in the works.
 
 ## In Action
